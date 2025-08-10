@@ -32,9 +32,9 @@ Traditional monitoring tools often struggle with the scale and complexity of mod
 
 ### Resources
 
-| Documentation | Source Code | Demo | Project Page |
-|:---:|:---:|:---:|:---:|
-| [GitHub Repository](https://github.com/aetherintel/Aether) | [Live Demo](https://æther.tech) | [Project Page](https://aetherintel.github.io/Aether/) |
+| Documentation/ Source Code | Demo |
+|:---:|:---:|
+| [GitHub Repository](https://github.com/aetherintel/Aether) | [Live Demo](https://æther.tech) |
 
 ### Quick Setup
 
@@ -43,8 +43,7 @@ Traditional monitoring tools often struggle with the scale and complexity of mod
 git clone git@github.com:aetherintel/Aether.git
 cd Aether
 
-# Configure environment
-cp .env.example .env.dev
+# Configure environment like shown in README
 # Edit .env.dev with your credentials
 
 # Launch with Docker
